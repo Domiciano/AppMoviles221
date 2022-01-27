@@ -9,6 +9,7 @@
 <p><a href="https://docs.google.com/spreadsheets/d/1PG8E4AqlZ3uR7BAwH9lHZqPsbiNTpxLrNcHj13xMwW8/edit?usp=sharing">Grupos de aplicaciones móviles</a></p>
 
 
+<p><b>Discord</b></p>
 <a href="https://discord.gg/SzAUVuYAwf"><img width="128" src="https://logos-marcas.com/wp-content/uploads/2020/12/Discord-Logo.png"></a><br>
 <small>Click en el logo para ingresar al link de invitación al server</small>
 
