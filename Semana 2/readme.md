@@ -3,7 +3,7 @@
 <p>La siguiente imagen es una muestra de un contacto en Whatsapp. Intente replicarlo<p>
 
 <p>
-<img src="https://github.com/Domiciano/AppMoviles221/raw/master/Semana%202/Recursos/wsapsample.png"/>
+<img src="https://github.com/Domiciano/AppMoviles221/raw/master/Semana%202/Recursos/wsapsample.png" height="128" />
 </p>
 
 
