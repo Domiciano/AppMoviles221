@@ -1,3 +1,14 @@
+# Ejercicio de imitación 
+
+<p>La siguiente imagen es una muestra de un contacto en Whatsapp. Intente replicarlo<p>
+
+<p>
+<img src="https://raw.githubusercontent.com/Domiciano/AppMoviles211/main/Semana%202/Recursos/wsapsample.png"/>
+</p>
+
+
+
+
 # Ejercicio UI
 
 <p>Se está creando una aplicación para el usuario final por parte de la empresa Cisco. El mockup de la aplicación es la siguiente<p>
@@ -11,5 +22,9 @@
 <a href="https://www.figma.com/file/oVa48JjpiiP5VCC3IeMYCA/Ejercicio-UI?node-id=0%3A1"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" height="120"></a>
 
 <p>Realice el diseño requerido con sus nuevas capacidades de diagramación en Android</p>
+
+
+
+
 
 
