@@ -21,3 +21,11 @@ Cuando tenga que usar la cámara use esto en el manifest
     ...
 </application>
 ```
+Y este es un ejemplo del archivo paths
+```
+<paths>
+    <external-path
+        name="/storage/emulated/0"
+        path="/Android/data/edu.co.icesi.camgaltest/files"/>
+</paths>
+```
