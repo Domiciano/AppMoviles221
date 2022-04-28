@@ -1,6 +1,6 @@
 # Queries en Firestore
 
-
+Use estos datos de entrada
 ```
         Firebase.firestore
             .collection("cities")
@@ -28,3 +28,13 @@
             .set(City("Beijing", null, "China", 21500000, arrayListOf("jingjinji", "hebei")))
 
 ```
+
+### Tenga en cuenta las siguientes reglas
+
+1. Todos los filtros de no igualdad (!=, <, <=, >, >=) sólo pueden ser aplicados a un solo campo en la misma query.
+
+2. Si se usa un filtro de rango (!=, <, <=, >, >=) a un campo, el orden (orderby) sólo puede ser aplicado al mismo campo
+
+3. No se pueden usar DOS o más ArrayContains
+
+4. Puede hacer 2 o más equalTo para encontrar un dato en la db
