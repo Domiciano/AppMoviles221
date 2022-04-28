@@ -37,4 +37,4 @@ Use estos datos de entrada
 
 3. No se pueden usar DOS o más ArrayContains
 
-4. Puede hacer 2 o más equalTo para encontrar un dato en la db
+4. Puede hacer 2 o más equalTo (==) para encontrar un dato en la db
